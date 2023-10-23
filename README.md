@@ -1,3 +1,3 @@
 # ndFirstRepo
-Este es mi primer repositorio en Nuclio Digital
-Sirve para probar las funciones Git
+Este es mi primer repositorio GIT en Nuclio Digital
+Es un proyecto python que sirve para probar las funciones Git
